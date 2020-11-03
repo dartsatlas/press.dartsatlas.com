@@ -1,6 +1,6 @@
 # Darts Atlas
 
-Darts Atlas is the most advanced technology platform for steel-tip darts. Our mission is to promote and grow the sport around the world by making it easy for people to *discover*, _play_, and _run_ organized darts. Learn more at [about.dartsatlas.com](https://about.dartsatlas.com).
+Darts Atlas is a technology platform for steel-tip darts. Our mission is to promote and grow the sport around the world by making it easy for people to *discover*, _play_, and _run_ organized darts. Learn more at [about.dartsatlas.com](https://about.dartsatlas.com).
 
 **Brand Assets:**  
 [darts-atlas-square-icon.png](/brand/darts-atlas-square-icon.png)  
