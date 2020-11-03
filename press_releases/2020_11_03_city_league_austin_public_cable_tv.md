@@ -1,7 +1,3 @@
-FOR IMMEDIATE RELEASE
-
----
-
 # City League Darts Announces Cable Television Syndication in Travis County
 
 AUSTIN, Texas, Nov 3, 2020 - City League Darts announced today that the Fall 2020 Quarantine Premier League will be syndicated on cable television in Travis County, Texas. The inaugural episode will air on Thursday, November 5 at 10pm local time, and will feature the Week 7 matchup between New Mexico's Jae Hoon Lim and Colorado's Mike Hughes.
@@ -41,6 +37,5 @@ Austin Public is a non-exclusive and content-neutral media studio that empowers 
 **Matt Langan**  
 City League Darts  
 +1 (512) 701 7330  
-matt@cityleaguedarts.com  
-www.CityLeagueDarts.com
-
+[matt@cityleaguedarts.com](mailto:matt@cityleaguedarts.com)  
+[www.CityLeagueDarts.com](https://www.cityleaguedarts.com)
