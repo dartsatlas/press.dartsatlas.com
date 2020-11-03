@@ -12,5 +12,5 @@ Darts Atlas is the most advanced technology platform for steel-tip darts. Our mi
 ## Press Releases
 
 **November 3, 2020**  
-[City League Darts Announces Cable Television Syndication in Travis County](/2020_11_03_city_league_austin_public_cable_tv)
+[City League Darts Announces Cable Television Syndication in Travis County](/press_releases/2020_11_03_city_league_austin_public_cable_tv)
 
